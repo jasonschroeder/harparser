@@ -1,6 +1,8 @@
 harparse
 ========
 
+[![Build Status](https://travis-ci.org/jasonschroeder/harparser.svg?branch=master)](https://travis-ci.org/jasonschroeder/harparser)
+
 This is yet another python HAR Parser utility. However unlike its contemporaries it uses a recursive strategy in order to provide an abstract yet easy to understand and adapt handle on the HAR format in python.
 
 Installation
